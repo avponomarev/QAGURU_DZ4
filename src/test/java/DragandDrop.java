@@ -16,7 +16,7 @@ public class DragandDrop {
     }
 
     @Test
-    void hoverPricingGitHub() {
+    void dragAndDrop() {
         open("https://the-internet.herokuapp.com/drag_and_drop");
 
 
